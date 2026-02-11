@@ -7,7 +7,7 @@ const app = express();
 app.use(cors({
     origin: [
         'http://localhost:5173',
-        'https://music-showcase-app.onrender.com'
+        'http://my-backend.onrender.com'
     ]
 }));
 
