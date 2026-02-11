@@ -1,0 +1,81 @@
+{
+    "en-US": {
+        "single": "Single",
+        "words": [
+            "Aqua", "Noctis", "Sol", "Shade", "Gleam", "Fallow", "Pulse", "Rever",
+            "Hush", "Feral", "Luna", "Onyx", "Metro", "Abyss", "Glow", "Frost",
+            "Ember", "Veil", "Ender", "Finale","Lume", "Void", "Nova", "Fract", "Rune",
+            "Selene", "Fae", "Clang", "Calm"],
+            "artists": [ 
+            "Liam Carter", "Sophia Reed", "Noah Brooks", "Ava Mitchell", "Ethan Walker", "Mia Collins",
+            "Lucas Turner", "Emily Parker", "Neon Rivers", "Midnight Echo", "Silver Pulse",
+            "Cold Waves", "Urban Lights", "Velvet Horizon", "Golden Static", "Moon Harbor"
+            ],
+            "genres": [
+            "Pop", "Rock", "Rap", "Électronique", "Indé", "Chill", "House",
+            "Techno", "R&B", "Jazz", "Soul", "Alternative", "Funk", "Lo-fi"
+            ], 
+            "reviews": [
+            "Amazing track, I can't stop listening!", "The melody is so catchy and vibrant.",
+            "Great vocals and production.", "This song is perfect for relaxing evenings.",
+            "One of the best songs of the year!", "Love the energy and rhythm.",
+            "Every note hits perfectly.", "The lyrics are truly moving.", "I found myself humming it all day.",
+            "This track is a masterpiece!", "Absolutely love the sound design.", "Can't get enough of this beat.",
+            "This song made my day!", "Incredible harmony and composition.", "The production quality is top-notch.",
+            "Instant favorite for my playlist.", "A beautiful combination of voices.",
+            "The rhythm keeps me hooked.", "Pure musical genius.", "Epic track, highly recommend!"]
+            
+        },
+        "fr-FR": {
+        "single": "Chanson",
+        "words": [
+            "Azur", "Nuit", "Soleil", "Ombre", "Lueur", "Errant", "Pulse", "Réver",
+            "Chuchot", "Féroce", "Lune", "Onyx", "Métro", "Abyss", "Éclat", "Givre",
+            "Braise", "Voile", "Crépuscule", "Finale", "Lumi", "Vide", "Nova",
+            "Fract", "Rune", "Sélène", "Fée", "Clang", "Calme"],
+        "artists": [ "Julien Moreau", "Camille Laurent", "Thomas Dubois", "Léa Bernard",
+            "Antoine Petit", "Chloé Martin", "Nicolas Rousseau", "Élodie Fournier", "Écho Bleu",
+            "Lune Noire", "Paris Vibes", "Soleil Rouge", "Les Ombres Claires", "Nova Paris",
+            "Vent Silencieux", "Ciel Brisé" ],
+        "genres": [
+            "Pop", "Rock", "Rap", "Électronique", "Indé", "Chill", "House",
+            "Techno", "R&B", "Jazz", "Soul", "Alternative", "Funk", "Lo-fi"],
+        "reviews": [
+            "Superbe chanson, je l'écoute en boucle !", "La mélodie est si accrocheuse et vibrante.",
+            "Excellente voix et production.", "Cette chanson est parfaite pour une soirée détendue.",
+            "Une des meilleures chansons de l'année !", "J'adore l'énergie et le rythme.",
+            "Chaque note est parfaite.", "Les paroles sont vraiment émouvantes.",
+            "Je me surprends à la fredonner toute la journée.", "Ce morceau est un chef-d'œuvre !",
+            "La qualité de production est exceptionnelle.", "Impossible de me lasser de ce beat.",
+            "Cette chanson a illuminé ma journée !", "Harmonie et composition incroyables.",
+            "Un vrai bijou sonore.", "Instantanément mon morceau préféré.",
+            "Une combinaison de voix magnifique.", "Le rythme me captive.",
+            "Génie musical pur.", "Morceau épique, je recommande vivement !"]
+
+    },
+    "be-BE": {
+        "single": "Песня",
+        "words": [
+            "Блакіт", "Ноч", "Лета", "Каханне", "Ззянне", "Кветка", "Іскра", "Салодкі",
+            "Шэпат", "Дзікі", "Пяшчотнае", "Цемра", "Горад", "Глыбіня", "Святло", "Леташні",
+            "Цяплыня", "Схаваны", "Канец", "Апошні", "Сонейка", "Пустэча", "Зорка",
+            "Адчуванне", "Містыка", "Восеньскі", "Аксаміт", "Гул", "Спакой"
+        ],
+        "artists": [ "Андрусь Ціхановіч", "Вольга Мельнік", "Максім Новік", "Аліна Сідарук",
+            "Дзмітрый Бандарэнка", "Наталля Кузьміч", "Алесь Савіч", "Марыя Раманава",
+            "Ціхі Вецер", "Горад Ценяў", "Новы Гук", "Сонечны Шлях", "Зорны Свет",
+            "Месяцовы Рытм", "Хвалі Надзеі", "Жывы Агонь"],
+        "genres": [
+            "Поп", "Рок", "Хіп-хоп", "Электроніка", "Інды", "Хаўс",
+            "Тэхна", "Чыл", "Джаз", "Соул", "Фанк", "Лоу-фай", "Альтэрнатыва"],
+        "reviews": [ "Выдатная песня, слухаю кожны дзень!", "Мелодыя вельмі захапляльная і жывая.",
+            "Цудоўны вакал і прадакшн.", "Гэтая песня ідэальна падыходзіць для спакойнага вечара.",
+            "Адна з найлепшых песень года!", "Люблю энергію і рытм.", "Кожная нота гучыць ідэальна.",
+            "Тэкст сапраўды кранальны.", "Гэты трэк – сапраўдны шэдэўр!", "Якасць прадакшну проста топ.",
+            "Немагчыма стаміцца ад біта.", "Гэта песня зрабіла мой дзень!", "Неверагодная гармонія і кампазіцыя.",
+            "Сапраўдная музычная геніяльнасць.", "Фаварыт для майго плэйліста.",
+             "Прыгожае спалучэнне галасоў.", "Рытм трымае ў захапленні.", "Чысты музычны геній.",
+             "Эпічны трэк, рэкамендую!"
+]
+    }
+}
